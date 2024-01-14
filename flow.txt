@@ -1,0 +1,40 @@
+Main folder
+check version 
+system>>core>>compat>codeingiter.php
+working folder 
+application
+
+1.config
+2.controler
+3.model
+4.view 
+
+inside folder files
+config
+1.autoload
+2.config
+3.database
+4.router>>imp 
+ 
+controler
+controler is define where to move like 
+pages  in view foder >>
+second also model define with tables and select query and insert and delete all query write like funcation and and call 
+	
+all files are important 
+
+model and view 
+
+admin login
+mail id admin@gmail.com
+pass admin 
+
+
+https://drive.google.com/drive/folders/1rW8t6puMxN1VgflDfgoMAR8dUnpvuOOP
+controler file 
+save_order();doubt
+product();
+customer_save();
+return $this->db->insert_id();
+
+
